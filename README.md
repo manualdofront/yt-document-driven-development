@@ -1,5 +1,7 @@
 # IA para DEVS: AULA OBRIGATÓRIA para economizar e manter o contexto
 
+Linha 3 (instalado uma biblioteca)
+
 <a href="https://www.youtube.com/watch?v=-flGlyEHBfU" target="_blank">
  <img src="http://img.youtube.com/vi/-flGlyEHBfU/mqdefault.jpg" alt="Watch the video" border="10" />
 </a>
