@@ -1,14 +1,14 @@
-# [Title]
+# IA para DEVS: AULA OBRIGATÓRIA para economizar e manter o contexto
 
-<a href="https://www.youtube.com/watch?v=ocjaAY9PQKU" target="_blank">
- <img src="http://img.youtube.com/vi/ocjaAY9PQKU/mqdefault.jpg" alt="Watch the video" border="10" />
+<a href="https://www.youtube.com/watch?v=-flGlyEHBfU" target="_blank">
+ <img src="http://img.youtube.com/vi/-flGlyEHBfU/mqdefault.jpg" alt="Watch the video" border="10" />
 </a>
 
 > Clique na imagem acima e assista o vídeo!
 
 ## ☕ Material de apoio
 
-[Mateiral de apoio]
+- Superwhisper: https://superwhisper.com/
 
 ## 🤝 Autor
 
