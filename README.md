@@ -6,6 +6,8 @@ Linha 3 (instalado uma biblioteca)
  <img src="http://img.youtube.com/vi/-flGlyEHBfU/mqdefault.jpg" alt="Watch the video" border="10" />
 </a>
 
+Linha 9 (corrigido uma funcao)
+
 > Clique na imagem acima e assista o vídeo!
 
 ## ☕ Material de apoio
