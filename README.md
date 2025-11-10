@@ -1,14 +1,10 @@
 # IA para DEVS: AULA OBRIGATÓRIA para economizar e manter o contexto
 
-Linha 3 (instalado uma biblioteca)
-
 <a href="https://www.youtube.com/watch?v=-flGlyEHBfU" target="_blank">
  <img src="http://img.youtube.com/vi/-flGlyEHBfU/mqdefault.jpg" alt="Watch the video" border="10" />
 </a>
 
-Linha 9 (corrigido uma funcao)
-
-> Clique na imagem acima e assista o vídeo!
+> Clique na imagem acima e assista o vídeo! Encontre a aplicação nesse endereço: https://manualdofront.github.io/yt-document-driven-development/
 
 ## ☕ Material de apoio
 
